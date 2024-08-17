@@ -2,7 +2,6 @@
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any topic of hacking
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am handball player
 
